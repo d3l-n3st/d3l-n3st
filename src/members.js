@@ -5,6 +5,7 @@ members.set('TRI', 'https://www.triho.dev/');
 members.set('EDDY', 'https://www.eddyguo.ca/');
 members.set('BRIAN', 'https://briantu.tech/');
 members.set('ANNIE', 'https://anniesun.ca/');
+members.set('STEPHEN', 'https://stephenwang.ca/');
 // ADD YOUR NAME AND LINK ABOVE
 
 var temp = [];
